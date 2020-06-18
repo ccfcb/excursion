@@ -1,7 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
 header {
     font-family: Verdana, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
+    text-align: center;
+}
+
+#video {
     justify-content: center;
+}
+
+.download_link {
+    color: aquamarine;
+    font-size: 16px;
 }
