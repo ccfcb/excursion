@@ -2,29 +2,46 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, sans-serif;
+}
+
+h1 {
     color: white;
-}
-
-header {
-    font-weight: normal;
     font-size: 50px;
+    font-weight: normal;
 }
 
-#video {
-    justify-content: center;
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
 }
 
-.download_link {
+h3 {
+    color: gray;
+    font-size: 21px;
+}
+
+h4 {
     color: aquamarine;
     font-size: 16px;
 }
 
-.text h2 {
-    font-weight: 300;
-    font-size: 42px;
+#video {
+    justify-content: center;
+    padding: 10px;
 }
 
-.text h3 {
-    opacity: 0.8;
+#photo {
+    justify-content: center;
+    padding: 10px;
 }
 
+.photo {
+    width: 80%;
+    height: auto;
+    padding: 10px;
+}
+
+.copyright {
+    text-align: right;
+}
