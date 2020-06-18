@@ -35,11 +35,7 @@ main {
     padding: 10px;
 }
 
-#photo {
-    padding: 10px;
-}
-
-.photo {
+main .photo {
     width: 80%;
     height: auto;
     padding: 10px;
@@ -49,6 +45,6 @@ footer {
     display: flex;
     justify-content: center;
 }
-.copyright {
+footer .copyright {
     text-align: right;
 }
