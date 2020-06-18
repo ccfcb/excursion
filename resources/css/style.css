@@ -26,25 +26,7 @@ h4 {
     font-size: 16px;
 }
 
-main {
-    
-    justify-content: center;
-}
 
-#video {
-    padding: 10px;
-}
-
-main .photo {
-    width: 80%;
-    height: auto;
-    padding: 10px;
-}
-
-footer {
-    display: flex;
-    justify-content: center;
-}
-footer .copyright {
+footer h3 {
     text-align: right;
 }
