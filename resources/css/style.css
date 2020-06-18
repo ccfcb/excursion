@@ -28,7 +28,15 @@ main .link {
     font-size: 16px;
 }
 
+footer img {
+    padding-top: 20px;
+}
 
 footer h3 {
     text-align: right;
+}
+
+footer .link {
+    color: aquamarine;
+    font-size: 16px;
 }
